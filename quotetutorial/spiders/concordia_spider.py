@@ -3,6 +3,7 @@ from urllib.parse import urljoin, urlparse
 
 import nltk
 import scrapy
+from afinn import Afinn
 from bs4 import BeautifulSoup
 from scrapy.exceptions import CloseSpider
 from langdetect import detect
@@ -12,10 +13,9 @@ import re
 class ConcordiaSpider(scrapy.Spider):
     name = "concordia"
     allowed_domains = ['concordia.ca']
-    start_urls = [
-        'https://www.concordia.ca'
-    ]
-    tokens_map = {}  # Hashmap to store tokens
+    start_urls = ['https://www.concordia.ca']
+    data_map = {}  # Hashmap to store tokens
+    afinn = Afinn()  # Initialize Afinn
 
     def __init__(self, max_files=20, *args, **kwargs):
         super(ConcordiaSpider, self).__init__(*args, **kwargs)
@@ -41,8 +41,10 @@ class ConcordiaSpider(scrapy.Spider):
             if detect(cleaned_text) == 'en':
                 self.files_downloaded += 1
 
+                # Sentiment analysis
+                sentiment_score = self.afinn.score(cleaned_text)
                 tokens = self.tokenize_text(cleaned_text)
-                self.tokens_map[response.url] = tokens  # Store tokens in hashmap
+                self.data_map[response.url] = {'tokens': tokens, 'sentiment': sentiment_score}
 
                 text_without_numbers = re.sub(r'\d+', '', cleaned_text)
                 yield {'page_text': text_without_numbers}
