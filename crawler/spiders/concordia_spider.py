@@ -57,10 +57,3 @@ class ConcordiaSpider(scrapy.Spider):
                         yield scrapy.Request(absolute_link, callback=self.parse)
         except:
             pass
-
-    # def closed(self, reason):
-    #     # Save the tokens map to a JSON file when spider is closed
-    #     with open('tokens_map.json', 'w') as file:
-    #         json.dump(self.tokens_map, file, ensure_ascii=False, indent=4)
-
-

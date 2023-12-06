@@ -1,0 +1,25 @@
+Cluster Information:
+Cluster 0:
+  Top Terms: ['department', 'professor', 'biology', 'economics', 'chair', 'journalism', 'covid', 'assistant', 'members', 'sp', 'dr', 'chemistry', 'year', 'communication', 'applied', 'hb', 'sherbrooke', 'human', 'director', 've']
+  Average Sentiment: 11.364647683044804
+
+Cluster 1:
+  Top Terms: ['giving', 'benefits', 'gen', 'leadership', 'gifts', 'fb', 'priorities', 'objectives', 'advancement', 'applause', 'impact', 'portraits', 'innovation', 'graduation', 'homecoming', 'magazine', 'planned', 'networks', 'rr', 'charitable']
+  Average Sentiment: 32.45253586077321
+
+Cluster 2:
+  Top Terms: ['jmec', 'executive', 'management', 'courses', 'mt', 'dec', 'coaching', 'udemy', 'sustainable', 'ma', 'certification', 'phd', 'professional', 'aviation', 'mb', 'investment', 'custom', 'training', 'certificate', 'education']
+  Average Sentiment: 29.79405311169942
+
+Cluster 3:
+  Top Terms: ['funding', 'financial', 'tuition', 'loans', 'gm', 'apply', 'aid', 'professional', 'budgeting', 'career', 'postdoctoral', 'fees', 'maisonneuve', 'banking', 'gradproskills', 'skills', 'bank', 'credit', 'development', 'phd']
+  Average Sentiment: 24.543683050168305
+
+Cluster 4:
+  Top Terms: ['stories', 'november', 'affairs', 'reports', 'team', 'community', 'december', 'culture', 'teaching', 'event', 'sports', 'institute', 'publications', 'filming', 'expert', 'wellness', 'available', 'experts', 'kate', 'simone']
+  Average Sentiment: 22.857674305181984
+
+Cluster 5:
+  Top Terms: ['international', 'admissions', 'units', 'hub', 'education', 'iso', 'abroad', 'learn', 'partnerships', 'continuing', 'housing', 'office', 'generation', 'success', 'chairs', 'fitness', 'tuition', 'directions', 'strategic', 'open']
+  Average Sentiment: 23.01582117222006
+

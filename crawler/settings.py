@@ -9,8 +9,8 @@
 
 BOT_NAME = "concordia"
 
-SPIDER_MODULES = ["quotetutorial.spiders"]
-NEWSPIDER_MODULE = "quotetutorial.spiders"
+SPIDER_MODULES = ["crawler.spiders"]
+NEWSPIDER_MODULE = "crawler.spiders"
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
@@ -63,7 +63,7 @@ ROBOTSTXT_OBEY = True
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-    "quotetutorial.pipelines.QuotetutorialPipeline": 300,
+    "crawler.pipelines.QuotetutorialPipeline": 300,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)

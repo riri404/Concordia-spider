@@ -1,0 +1,13 @@
+Cluster Information:
+Cluster 0:
+  Top Terms: ['department', 'funding', 'november', 'financial', 'professor', 'biology', 'stories', 'tuition', 'economics', 'team', 'journalism', 'chair', 'covid', 'affairs', 'members', 'loans', 'learn', 'office', 'institute', 'assistant']
+  Average Sentiment: 12.388465233025002
+
+Cluster 1:
+  Top Terms: ['giving', 'benefits', 'gen', 'leadership', 'gifts', 'fb', 'priorities', 'objectives', 'advancement', 'applause', 'impact', 'portraits', 'innovation', 'graduation', 'homecoming', 'magazine', 'planned', 'networks', 'rr', 'charitable']
+  Average Sentiment: 32.45253586077321
+
+Cluster 2:
+  Top Terms: ['international', 'jmec', 'admissions', 'courses', 'education', 'hub', 'professional', 'units', 'executive', 'dec', 'funding', 'phd', 'career', 'management', 'tuition', 'iso', 'skills', 'abroad', 'continuing', 'partnerships']
+  Average Sentiment: 19.693271507951412
+
