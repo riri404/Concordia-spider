@@ -37,7 +37,7 @@ It uses the AFINN lexicon for sentiment scoring and can also cluster documents b
 ### Text Clustering
 
 The clusters.py module includes the TextCluster class, which clusters text documents using K-Means clustering.
-It also calculates the average sentiment for each cluster using the sentiment analyzer.
+It also calculates the average sentiment for each cluster using the sentiment analyzer. I am currently looking for a way 
 
 ### Running the Main Script
 
