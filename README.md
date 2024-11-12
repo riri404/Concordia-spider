@@ -1,4 +1,4 @@
-# COMP479-Project4: Concordia Spider 
+# Concordia Spider 
 ## Description
 The concordia_spider.py script is a web scraping tool built using [Scrapy](https://docs.scrapy.org/en/latest/index.html), designed to extract and analyze text data from web pages on the Concordia University website (concordia.ca). It collects text content, performs sentiment analysis, and clusters the pages based on their content. Additionally, the script includes two supporting modules, sentiment.py, and clusters.py, which provide sentiment analysis and text clustering functionality, respectively. The main script, main.py, demonstrates how to use these modules to analyze and cluster the scraped data.
 
