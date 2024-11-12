@@ -22,7 +22,7 @@ Before running the code, make sure you have the following Python libraries insta
 You can install these libraries using pip if you haven't already:
 
 Copy code
-```pip install scrapy beautifulsoup4 afinn-langdetect nltk scikit-learn numpy```
+```pip install scrapy beautifulsoup4 afinn langdetect nltk scikit-learn numpy```
 ## Usage
 ### Scraping Data
 
