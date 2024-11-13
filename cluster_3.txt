@@ -1,0 +1,41 @@
+Cluster Information:
+Cluster 0:
+  Top Terms: ['professor', 'covid', 'economics', 'biology', 'chair', 'mt', 'report', 'chemistry', 'ba', 'vice', 'la', 'year', 'liberal', 'time', 'department', 'associate', 'coronavirus', 'dean', 'exam', 'college']
+  Average Sentiment: 13.169255779060926
+
+Cluster 1:
+  Top Terms: ['graduation', 'portraits', 'giving', 'benefits', 'code', 'promo', 'lassman', 'studios', 'applause', 'magazine', 'career', 'recognition', 'concordians', 'home', 'regular', 'publications', 'loyola', 'tuesday', 'achievement', 'memories']
+  Average Sentiment: 51.22846629451237
+
+Cluster 2:
+  Top Terms: ['funding', 'professional', 'apply', 'career', 'postdoctoral', 'development', 'gradproskills', 'skills', 'postdocs', 'phd', 'udemy', 'award', 'gm', 'idp', 'doctoral', 'conference', 'team', 'external', 'sources', 'international']
+  Average Sentiment: 35.06625262126409
+
+Cluster 3:
+  Top Terms: ['international', 'admissions', 'units', 'dec', 'hub', 'learn', 'courses', 'education', 'tuition', 'abroad', 'chairs', 'success', 'continuing', 'partnerships', 'office', 'wellness', 'housing', 'fitness', 'generation', 'directions']
+  Average Sentiment: 19.820204040141636
+
+Cluster 4:
+  Top Terms: ['jmec', 'executive', 'management', 'coaching', 'sustainable', 'certification', 'aviation', 'mb', 'custom', 'investment', 'solutions', 'training', 'certified', 'centric', 'expertise', 'coach', 'professional', 'video', 'goal', 'education']
+  Average Sentiment: 46.96601570286546
+
+Cluster 5:
+  Top Terms: ['financial', 'loans', 'tuition', 'budgeting', 'aid', 'banking', 'bank', 'credit', 'fees', 'expenses', 'gm', 'scholarships', 'employment', 'jobs', 'budget', 'month', 'cards', 'card', 'bursaries', 'maisonneuve']
+  Average Sentiment: 29.26868159997429
+
+Cluster 6:
+  Top Terms: ['stories', 'november', 'affairs', 'reports', 'team', 'community', 'culture', 'teaching', 'december', 'event', 'sports', 'publications', 'filming', 'institute', 'expert', 'available', 'experts', 'wellness', 'hockey', 'categories']
+  Average Sentiment: 23.081797753794792
+
+Cluster 7:
+  Top Terms: ['department', 'journalism', 'biology', 'dr', 'assistant', 'members', 'chair', 'economics', 'communication', 've', 'sp', 'appointment', 'human', 'sherbrooke', 'applied', 'hb', 'sciences', 'institute', 'advising', 'november']
+  Average Sentiment: 13.433059003250543
+
+Cluster 8:
+  Top Terms: ['giving', 'gen', 'leadership', 'gifts', 'benefits', 'fb', 'priorities', 'objectives', 'impact', 'innovation', 'advancement', 'planned', 'homecoming', 'join', 'applause', 'rr', 'faubourg', 'charitable', 'talent', 'magazine']
+  Average Sentiment: 32.72657945342747
+
+Cluster 9:
+  Top Terms: ['iso', 'volunteer', 'international', 'volunteering', 'immigration', 'help', 'documents', 'hub', 'permit', 'meet', 'experience', 'volunteers', 'dec', 'people', 'schedule', 'like', 'ircc', 'gain', 'letter', 'able']
+  Average Sentiment: 66.45898848637121
+

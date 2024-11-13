@@ -1,0 +1,80 @@
+Cluster Information:
+Cluster 0:
+  Top Terms: ['professor', 'economics', 'mt', 'la', 'chemistry', 'liberal', 'dean', 'year', 'college', 'associate', 'time', 'department', 'assistant', 'winners', 'chair', 'appointments', 'rr', 'emeritus', 'chairs', 'members']
+  Average Sentiment: 23.973223491234315
+
+Cluster 1:
+  Top Terms: ['graduation', 'portraits', 'giving', 'benefits', 'code', 'promo', 'lassman', 'studios', 'applause', 'magazine', 'career', 'recognition', 'concordians', 'home', 'regular', 'publications', 'loyola', 'tuesday', 'achievement', 'memories']
+  Average Sentiment: 51.22846629451237
+
+Cluster 2:
+  Top Terms: ['funding', 'apply', 'doctoral', 'conference', 'award', 'postdoctoral', 'allowance', 'cotutelle', 'external', 'gradproskills', 'partner', 'sources', 'master', 'international', 'gm', 'postdocs', 'professional', 'scholarship', 'deadline', 'exposition']
+  Average Sentiment: 43.29069119404889
+
+Cluster 3:
+  Top Terms: ['international', 'admissions', 'units', 'dec', 'education', 'abroad', 'continuing', 'partnerships', 'courses', 'chairs', 'housing', 'directions', 'strategic', 'test', 'open', 'fitness', 'hub', 'language', 'visitors', 'success']
+  Average Sentiment: 24.529061758978404
+
+Cluster 4:
+  Top Terms: ['jmec', 'executive', 'management', 'coaching', 'sustainable', 'certification', 'aviation', 'mb', 'custom', 'investment', 'solutions', 'certified', 'centric', 'expertise', 'coach', 'professional', 'goal', 'education', 'real', 'team']
+  Average Sentiment: 58.315300962341226
+
+Cluster 5:
+  Top Terms: ['credit', 'card', 'bank', 'cards', 'perks', 'loans', 'tuition', 'balance', 'financial', 'fees', 'transactions', 'aid', 'budgeting', 'review', 'payment', 'pay', 'banking', 'offers', 'charges', 'avoid']
+  Average Sentiment: 17.000000000000004
+
+Cluster 6:
+  Top Terms: ['stories', 'affairs', 'november', 'team', 'reports', 'community', 'culture', 'teaching', 'december', 'event', 'sports', 'publications', 'filming', 'expert', 'experts', 'wellness', 'hockey', 'categories', 'kate', 'winners']
+  Average Sentiment: 26.665140696871845
+
+Cluster 7:
+  Top Terms: ['department', 'economics', 've', 'human', 'applied', 'sciences', 'members', 'chair', 'dr', 'principal', 'assistant', 'administrator', 'departmental', 'phone', 'ahsc', 'email', 'office', 'administrative', 'friday', 'extension']
+  Average Sentiment: 18.513056232786482
+
+Cluster 8:
+  Top Terms: ['giving', 'benefits', 'homecoming', 'applause', 'magazine', 'id', 'networks', 'career', 'recognition', 'card', 'concordians', 'chapter', 'update', 'publications', 'loyola', 'discounts', 'epic', 'fundone', 'capstone', 'newsletters']
+  Average Sentiment: 48.90695682677831
+
+Cluster 9:
+  Top Terms: ['iso', 'volunteer', 'international', 'volunteering', 'immigration', 'help', 'documents', 'hub', 'permit', 'meet', 'experience', 'volunteers', 'dec', 'people', 'schedule', 'like', 'ircc', 'gain', 'letter', 'able']
+  Average Sentiment: 66.45898848637121
+
+Cluster 10:
+  Top Terms: ['gen', 'leadership', 'giving', 'gifts', 'priorities', 'objectives', 'innovation', 'impact', 'fb', 'talent', 'generation', 'tribute', 'spaces', 'learn', 'advancement', 'fr', 'wellbeing', 'matching', 'planned', 'society']
+  Average Sentiment: 30.32646953132143
+
+Cluster 11:
+  Top Terms: ['covid', 'coronavirus', 'exam', 'symptoms', 'medical', 'positive', 'protocols', 'mask', 'fever', 'avoid', 'masks', 'absence', 'tested', 'wear', 'days', 'attend', 'situation', 'procedure', 'term', 'units']
+  Average Sentiment: 0.8251991298756997
+
+Cluster 12:
+  Top Terms: ['financial', 'tuition', 'loans', 'budgeting', 'aid', 'banking', 'fees', 'bank', 'expenses', 'scholarships', 'gm', 'jobs', 'employment', 'budget', 'month', 'credit', 'bursaries', 'literacy', 'maisonneuve', 'quebec']
+  Average Sentiment: 28.98644285332557
+
+Cluster 13:
+  Top Terms: ['institute', 'simone', 'beauvoir', 'bowes', 'sdbi', 'advising', 'info', 'summer', 'dr', 'linda', 'issues', 'sponsorship', 'wsssa', 'interdisciplinary', 'scholars', 'ethics', 'fellowships', 'principal', 'structure', 'position']
+  Average Sentiment: 26.632271241662288
+
+Cluster 14:
+  Top Terms: ['available', 'training', 'appointments', 'counselling', 'procedures', 'security', 'alerts', 'report', 'desk', 'medical', 'protection', 'november', 'healthy', 'articles', 'learn', 'help', 'wellness', 'self', 'access', 'stress']
+  Average Sentiment: 15.844217021980342
+
+Cluster 15:
+  Top Terms: ['account', 'hub', 'udemy', 'grad', 'cu', 'courses', 'lifelong', 'monday', 'success', 'office', 'learners', 'advising', 'concordians', 'disabilities', 'appointment', 'help', 'welcome', 'fr', 'financial', 'black']
+  Average Sentiment: 30.668312259501153
+
+Cluster 16:
+  Top Terms: ['journalism', 'department', 'communication', 'cj', 'creation', 'november', 'mircea', 'mandache', 'hb', 'sherbrooke', 'facilities', 'assistant', 'st', 'glustein', 'kathleen', 'investigative', 'internship', 'dr', 'highlights', 'depot']
+  Average Sentiment: 19.047098793144055
+
+Cluster 17:
+  Top Terms: ['biology', 'sp', 'department', 'chemistry', 'biochemistry', 'professor', 'assistant', 'appointment', 'members', 'complex', 'director', 'chair', 'leonie', 'morris', 'dr', 'sherbrooke', 'technical', 'weekly', 'richard', 'hb']
+  Average Sentiment: 25.925042570571563
+
+Cluster 18:
+  Top Terms: ['career', 'funding', 'report', 'professional', 'idp', 'skills', 'phd', 'phds', 'development', 'gradproskills', 'postdoctoral', 'postdocs', 'connect', 'gm', 'apply', 'team', 'public', 'outcomes', 'scholars', 'plan']
+  Average Sentiment: 35.89780674123134
+
+Cluster 19:
+  Top Terms: ['ba', 'bcomm', 'vice', 'chair', 'bsc', 'resum�', 'president', 'clinic', 'ma', 'chief', 'bfa', 'facebook', 'china', 'join', 'mba', 'virtual', 'advisor', 'career', 'regional', 'chapter']
+  Average Sentiment: 29.627552899231336
